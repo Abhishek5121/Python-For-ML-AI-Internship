@@ -8,7 +8,7 @@ record.json----------Product records maintained in JSON format <br />
 sales.json----------Sales records maintained in JSON format<br />
 
 ### About Me
-Abhishek shettigar<br />
+Abhishek Shettigar<br />
 B.E. in Electronics and Communication Engineering <br />
 Mangalore Institute Of Technology and Engineering<br />
 
